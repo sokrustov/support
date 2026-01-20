@@ -1,0 +1,95 @@
+{
+  "tickets": {
+    "8263022613": {
+      "thread_id": 559,
+      "status": "closed",
+      "admin_msg_id": 560
+    },
+    "7928642956": {
+      "thread_id": 354,
+      "status": "closed",
+      "admin_msg_id": 355
+    },
+    "5387877153": {
+      "thread_id": 360,
+      "status": "open",
+      "admin_msg_id": 361
+    },
+    "447494967": {
+      "thread_id": 507,
+      "status": "closed",
+      "admin_msg_id": 508
+    },
+    "7336461438": {
+      "thread_id": 552,
+      "status": "closed",
+      "admin_msg_id": 553
+    },
+    "939883122": {
+      "thread_id": 573,
+      "status": "closed",
+      "admin_msg_id": 574
+    },
+    "5298409618": {
+      "thread_id": 589,
+      "status": "open",
+      "admin_msg_id": 590
+    }
+  },
+  "active_chats": {
+    "5387877153": {
+      "agent_num": 1
+    },
+    "5298409618": {
+      "agent_num": 1
+    }
+  },
+  "banned": [],
+  "agents": {
+    "6193642243": {
+      "num": 1,
+      "replies": 76,
+      "bans": 2
+    }
+  },
+  "ban_reasons": {
+    "7928642956": {
+      "reason": "51",
+      "agent_num": 1
+    },
+    "939883122": {
+      "reason": "санрейм",
+      "agent_num": 1
+    }
+  },
+  "user_metadata": {
+    "8263022613": {
+      "username": "franonim",
+      "ticket_count": 3
+    },
+    "5827096612": {
+      "username": "fuck_zaza",
+      "ticket_count": 0
+    },
+    "447494967": {
+      "username": "DHmelev",
+      "ticket_count": 1
+    },
+    "7928642956": {
+      "username": "managemanager",
+      "ticket_count": 0
+    },
+    "8087962709": {
+      "username": "nxtalent",
+      "ticket_count": 0
+    },
+    "7336461438": {
+      "username": "vvgeek",
+      "ticket_count": 1
+    },
+    "939883122": {
+      "username": "sunrame",
+      "ticket_count": 2
+    }
+  }
+}
